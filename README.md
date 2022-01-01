@@ -4,9 +4,6 @@ Currently working with Spigot API and Minecraft.
 
 ![Discord](https://img.shields.io/discord/871270710214000681?label=DISCORD&logo=Discord&logoColor=%23FFFFFF&style=for-the-badge)
 
-[<img src="https://spotify-playing-now-jet.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />]
-(https://open.spotify.com/user/fwot9jciobftdqaw44iirh5vg)
-
 [![Spotify](https://spotify-playing-now-jet.vercel.app/api/spotify)](https://open.spotify.com/user/fwot9jciobftdqaw44iirh5vg)
 
 ## 🧰 Languages and Tools
