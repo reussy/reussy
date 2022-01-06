@@ -13,7 +13,9 @@
 <a href="https://discord.gg/nx7E9vecWp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nx7E9vecWp" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+---
+
+### Languages and Tools:
 <p align="left">
 <img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij" />
 <img align="left" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++" />
@@ -22,6 +24,14 @@
 <img align="left" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></p><br />
 <br />
 
-<h3 align="left">Github Stats</h3><br/>
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reussy&show_icons=true&theme=dracula)
+### Github Activity:
+
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reussy&theme=dracula" />
+  </a>
+
+<a href="https://github.com/Davekibh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=reussy&show_icons=true&theme=dracula&line_height=27" alt="reussy's github stats"/>
+</a>
