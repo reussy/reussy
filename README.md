@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **new things?**
 
-- ⚡ Fun fact **I think I am interesting...
+- ⚡ Fun fact **I think I am interesting...**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
