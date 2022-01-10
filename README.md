@@ -28,7 +28,7 @@
 
 ### Github Activity:
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/reussy">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reussy&theme=dracula" />
   </a>
 
