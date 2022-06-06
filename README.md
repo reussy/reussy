@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">Junior Java Developer and Graphic Designer</h3>
+<h3 align="center">Java Developer and Graphic Designer</h3>
 
 - 🔭 I’m currently working on **Spigot API and Minecraft**
 
@@ -35,3 +35,17 @@
 <a href="https://github.com/reussy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reussy&show_icons=true&theme=dracula&line_height=27" alt="reussy's github stats"/>
 </a>
+
+---
+
+### Recent projects:
+
+<details>
+<summary>Images</summary>
+<p align="left">
+<img align="left" src="https://i.imgur.com/PMmSGbV.png =150x150" alt="Challenges add-on" />
+<img align="left" src="https://i.imgur.com/CHTTwZ0.png" alt="Quests add-on" />
+<img align="left" src="https://i.imgur.com/Xudvy3H.png" alt="WinStreak add-on" />
+</p><br/>
+<br/>
+</details>
