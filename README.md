@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 <h3 align="center">Java Developer and Graphic Designer</h3>
 
-- 🔭 I’m currently working on **Spigot API and Minecraft**
+- 🔭 I’m currently working with **Spigot API and Minecraft**
 
 - 🌱 I’m currently learning **new things?**
 
