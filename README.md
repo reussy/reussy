@@ -29,9 +29,9 @@
 ### Github Activity:
 
 <a href="https://github.com/reussy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reussy&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reussy&theme=react" />
   </a>
 
 <a href="https://github.com/reussy">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=reussy&show_icons=true&theme=dracula&line_height=27" alt="reussy's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=reussy&show_icons=true&theme=react&line_height=27" alt="reussy's github stats"/>
 </a>
