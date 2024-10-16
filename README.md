@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">Java Developer and Graphic Designer</h3>
+<h3 align="center">Java Developer as hobby</h3>
 
 - 🔭 I’m currently working with **Spigot API and Minecraft**
 
@@ -10,7 +10,7 @@
 ---
 
 ### Programming Languages and Tools:
-[![My Programming Skills](https://skillicons.dev/icons?i=java,eclipse,idea,atom,discord,git,github,gradle,maven,stackoverflow,redis,mysql,sqlite&perline=6)](https://skillicons.dev)
+[![My Programming Skills](https://skillicons.dev/icons?i=java,eclipse,idea,atom,discord,git,github,gradle,maven,mysql,sqlite&perline=6)](https://skillicons.dev)
 
 ### Design Tools:
 [![My Programming Skills](https://skillicons.dev/icons?i=figma,xd,ai,ps&perline=6)](https://skillicons.dev)
